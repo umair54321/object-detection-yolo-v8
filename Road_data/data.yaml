@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Colab Notebooks/Babar/img/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Babar/img/val/images
+
+nc: 4
+names: ['straightRoad','rightTrun','leftTrun','landSliding']
